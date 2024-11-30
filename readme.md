@@ -4,22 +4,19 @@
 
 
 ![alt text](https://github.com/Laurin226/applera1n_bypass/blob/main/demoing.png)
-
-</h1>
-<h3 align="center">This project is no longer updated. Please use hackt1vator Unlock instead: <strong><a href="https://hackt1vator.com">Hackt1vator Unlock</a></strong></h3>
+</strong></h3>
 <h3 align="center">This is a modded version of    <strong><a href="https://github.com/palera1n/palera1n">Palera1n jailbreak</a></strong></h3>
 <p align="center">
     <strong><a href="https://github.com/Hackt1vator/applera1n/releases/">releases</a></strong>
     •
-    <strong><a href="https://twitter.com/hackt1vator">Twitter</a></strong>
+    <strong><a href="https://guns.lol/1nizi9">Website</a></strong>
     •
-    <strong><a   href="https://applera1n.github.io">Website</a></strong>
+    <strong><a   href="https://discord.gg/cU3ug5yrFz">Discord</a></strong>
 <h3 align="center">This is a no signal bypass</h3>
 <h3 align="center">The gui was made with <strong><a href="https://github.com/bartektenDev/Python3MacApp-LearnerTemplate">Python3MacApp LearnerTemplate</a></strong> from @ios_euphoria </h3>
 <h3 align="center">On A11 and A10 devices don´t set a passcode after bypass</h3>
 <h3 align="center">Here you can download the Palera1n loader ipa: <strong><a href="https://nightly.link/palera1n/loader/workflows/build/main/palera1n.zip">Palera1n.ipa</a></strong></h3>
 <h3 align="center">!!!Warning! This is for educational purpose only!!!</h3>
-<h3 align="center">Here you can donate the developer: <strong><a href="https://www.buymeacoffee.com/Hacktivator">buymeacoffee</a></strong></h3>
 <h3 align="center">How does it work: It boots the device with multiple patches required. On first run, it'll boot a ramdisk which dumps your onboard blob, creates a fakefs (if using semi tethered), installs the loader app, and patches your kernel. </h3>
 
 
@@ -57,9 +54,6 @@ python3 applera1n.py
 
 
 # Credits
-- [Daniel](https://github.com/DsSoft-Byte)
-: [pull request](https://github.com/Hackt1vator/applera1n/commit/6724fdf5c2261432a95276de1039317b1f774c05)
-
 Python3MacApp LearnerTemplate creator: 
 <strong><a href="https://github.com/bartektenDev">ios_euphoria</a></strong>
 
